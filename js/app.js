@@ -38,7 +38,7 @@ const items = [
         id:3,
         img:"img4",
         name:"The opportunity to become a PRO",
-        descr:"Show what you can do with PUSK!",
+        descr:"Show what you can do with E-Sport!",
         vs:true,
     },
 
